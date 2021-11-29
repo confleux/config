@@ -36,7 +36,7 @@ colorscheme desert
 syntax on
 
 "turns on comment highlighting with a special color
-"highlight Comment ctermfg=red
+"highlight Comment ctermfg=green
 
 "search: 
 
@@ -47,7 +47,6 @@ set hlsearch
 set incsearch
 
 "indenting:
-
 
 "place spaces while pressing tab
 set expandtab
@@ -67,6 +66,7 @@ set autoindent
 "
 set smartindent
 
+"for work with vimtex
 call plug#begin('~/.vim/plugins')
 Plug 'lervag/vimtex'
 let g:tex_flavor='latex'
