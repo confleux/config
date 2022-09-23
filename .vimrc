@@ -1,15 +1,11 @@
 syntax on
 
 set number
-
 set wildmenu
-
 set showmatch 
-
 set noswapfile
 
 set backspace=indent,eol,start
-set clipboard=unnamed
 
 set hlsearch
 set incsearch
@@ -23,3 +19,4 @@ set autoindent
 set smartindent
 
 highlight Comment ctermfg=gray
+colorscheme koehler
