@@ -5,3 +5,6 @@ export CLICOLOR=1
 export LSCOLORS=cxgxfxexbxegedabagacad
 export BASH_SILENCE_DEPRECATION_WARNING=1
 export EDITOR='vim'
+export PATH="/usr/local/sbin:$PATH"
+[[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh  # This loads NVM
+
