@@ -18,5 +18,5 @@ set smarttab
 set autoindent
 set smartindent
 
-highlight Comment ctermfg=gray
-colorscheme koehler
+set background=light
+
