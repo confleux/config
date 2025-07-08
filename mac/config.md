@@ -12,6 +12,8 @@ Clock options -> Display the time with seconds
 
 Hot Corners -> All -
 
+Minimize windows using -> Scale Effect
+
 ### Displays
 
 More space
