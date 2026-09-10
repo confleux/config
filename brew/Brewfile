@@ -1,29 +1,14 @@
-tap "homebrew/bundle"
-tap "homebrew/services"
-tap "mongodb/brew"
-brew "htop"
-brew "knock"
-brew "nmap"
-brew "nvm"
-brew "postgresql@17", restart_service: :changed
-brew "protobuf"
-brew "python@3.13"
-brew "redis", restart_service: :changed
-brew "tmux"
-brew "vim"
-brew "webtorrent-cli"
-brew "wget"
-brew "mongodb/brew/mongodb-community"
-cask "chatgpt"
-cask "discord"
-cask "docker"
-cask "dotnet-sdk"
-cask "obs"
-cask "postman"
-cask "rider"
-cask "tor-browser"
+# App to build and share containerised applications and microservices
+cask "docker-desktop"
+# Terminal emulator that uses platform-native UI and GPU acceleration
+cask "ghostty"
+# Web browser
+cask "google-chrome"
+# Music streaming service
+cask "spotify"
+# Open-source code editor
 cask "visual-studio-code"
-cask "vlc"
-cask "webstorm"
+# Video communication and virtual meeting platform
 cask "zoom"
+vscode "ms-vscode-remote.remote-containers"
 vscode "vscodevim.vim"

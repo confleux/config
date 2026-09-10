@@ -1,22 +1,23 @@
 syntax on
 
+" UI
 set number
 set wildmenu
-set showmatch 
-set noswapfile
+set showmatch
 
+" Editing
 set backspace=indent,eol,start
+set autoindent
 
+" Search
 set hlsearch
 set incsearch
 
-set expandtab
+" Indentation
 set tabstop=2
 set shiftwidth=2
-set smarttab
+set softtabstop=2
 
-set autoindent
-set smartindent
-
-set background=light
-
+" Files
+set noswapfile
+set undofile

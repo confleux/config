@@ -2,10 +2,9 @@
 
 Firewall: On
 
-### Control Center
+### Menu Bar
 
-Battery -> Show percentage: on
-
+Battery options -> Show percentage: on
 Clock options -> Display the time with seconds
 
 ### Desktop & Dock
@@ -48,5 +47,6 @@ defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
 Global disable press & hold:
 
 ```bash
-defaults write -g ApplePressAndHoldEnabled 0
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+defaults write com.jetbrains.rider ApplePressAndHoldEnabled -bool false
 ```
