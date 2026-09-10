@@ -6,6 +6,12 @@ Firewall: On
 
 Clock options -> Display the time with seconds
 
+### Keyboard
+
+Key repeat rate -> Fast
+
+Delay until repeat -> Short
+
 ####  Other
 
 VS Code disable press & hold: 
