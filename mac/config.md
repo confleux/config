@@ -2,39 +2,16 @@
 
 Firewall: On
 
-### Menu Bar
+### Menu bar
 
 Battery options -> Show percentage: on
 Clock options -> Display the time with seconds
 
-### Desktop & Dock
-
-Hot Corners -> All -
-
-Minimize windows using -> Scale Effect
-
-### Displays
-
-More space
-
 ### Keyboard
 
-Key repeat rate: 8
+Key repeat rate -> Fast
 
-Delay until repeat: 5
-
-Press globe key to: Do Nothing
-
-Keyboard Shortcuts -> Modifier Keys -> Caps Lock Key: Escape
-
-Text input -> Correct spelling automatically: off
-Text input -> Capitalize words automatically: off
-
-### Trackpad
-
-Tracking speed: 4
-
-Scroll & Zoom -> Natural Scrolling: Off
+Delay until repeat -> Short
 
 ####  Other
 
